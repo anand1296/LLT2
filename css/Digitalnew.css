@@ -1,0 +1,72 @@
+.navbar {
+      margin-bottom: 0;
+      background-color: #FFFFFF !important;
+      z-index: 9999;
+      border: 0;
+      font-size: 15px !important;
+      line-height: 1.42857143 !important;
+      letter-spacing: 1px;
+      border-radius: 0;
+      font-family: Metropolis Regular, sans-serif;
+      font-style: 'Metropolis' , sans-serif;
+  }
+
+
+  .navbar li{
+    padding-left: 15px;
+  }
+  .navbar li a, .navbar .navbar-brand {
+      color: #000 !important;
+  }
+  .navbar-nav li a:hover, .navbar-nav li.active a {
+      color: #EEE !important;
+      background-color: #fff !important;
+  }
+  .navbar-default .navbar-toggle {
+      border-color: transparent;
+      color: #000 !important;
+  }
+
+ #myNavbar{
+    margin-left: 50px;
+  }
+
+  .jumbotron {
+      background-color: #000C30 !important;
+      color: #FF3F3F !important;
+      margin-bottom: 0px !important;
+      font: Futura-Bold;
+      margin-top: 40px;
+      padding-left: 30px;
+
+  }
+  
+  .jumbotron p {
+
+      color: #FFFFFF;
+      font-family: Metropolis, sans-serif;
+  }
+  .jumbotron-heading
+  {
+    font-family: Futura-Bold;
+    text-align: left;
+    font-weight: 600;
+  }
+
+  .panel-body
+  {
+    background-color: #000C30;
+  }
+
+  .panel-p
+  {
+      color:#802020; 
+  }
+
+  .panel-body-content
+  {
+    font-family: Metropolis,sans-serif;
+    color: #FFFFFF;
+  }
+
+  
